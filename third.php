@@ -5,6 +5,7 @@
 <title>課題</title>
 </head>
 <body>
+<?php echo 'third.phpです '; ?>
 </body>
 </html>
 
